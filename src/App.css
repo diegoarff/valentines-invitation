@@ -71,7 +71,6 @@
   border-radius: 6px;
   box-shadow: 0 2px 26px rgba(104, 0, 0, 0.2);
 }
-
 .open .flap {
   transform: rotatex(180deg);
   transition: transform 0.4s ease, z-index 0.6s;
